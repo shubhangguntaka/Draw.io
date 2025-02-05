@@ -427,7 +427,7 @@
           <mxGeometry x="1720" y="1300" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4CD3zQgoziDDlTWU8RXA-78" value="&lt;font&gt;Overall Stats of user&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1474" y="1514.9" width="180" height="70.07" as="geometry" />
+          <mxGeometry x="1474" y="1514.9" width="186" height="70.07" as="geometry" />
         </mxCell>
         <mxCell id="4CD3zQgoziDDlTWU8RXA-81" value="Profile Settings" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1474" y="1600" width="186" height="60" as="geometry" />
